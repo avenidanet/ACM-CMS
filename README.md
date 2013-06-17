@@ -1,11 +1,11 @@
-ACM Facebook | Módulo para ACore v.1.0.0
+ACM CMS | Módulo para ACore v.1.0.0
 =====
 
 http://www.avenidanet.com
 
 Documentación y proyecto en http://www.avenidanet.com/acore (No habilitado todavía)
 
-Modulo ACore para creación de aplicaciones de Facebook.
+Modulo ACore para creación de templates administrables.
 Requiere del ACore. https://github.com/avenidanet/acore 
 
 Este desarrollo esta bajo licencia MIT.
